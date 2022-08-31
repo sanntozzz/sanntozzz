@@ -1,6 +1,6 @@
 <h2>Hi 👋 My name is João Santos</h2>
 
-<h3>I'm a Front-end Developer</h3>
+<h3>I'm a Front-end Web Developer</h3>
 
 <li>🌍 I'm based in Lisbon</li>
 <li>
