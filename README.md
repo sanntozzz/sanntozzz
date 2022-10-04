@@ -49,13 +49,3 @@
 <div style="display: flex">
     <img src="./images/Other/VSCode.svg" width="40" />
 </div>
-
-<h3>My Github status</h3>
-
-<a href="http://www.github.com/sanntozzz"><img
-        src="https://github-readme-stats.vercel.app/api?username=sanntozzz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-        alt="sanntozzz's GitHub stats" /></a>
-
-<a href="https://github.com/sanntozzz" align="left"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanntozzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-        alt="Top Languages" /></a>
