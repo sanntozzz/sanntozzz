@@ -15,8 +15,6 @@
 
 <h3>Skills</h3>
 
-<h4>Developer</h4>
-
 <div style="display: flex">
     <img src="./images/Developer/HTML5.svg" width="40" />
     <img src="./images/Developer/CSS3.svg" width="40" />
@@ -33,19 +31,9 @@
     <img src="./images/Developer/Prisma.svg" width="40" />
     <img src="./images/Developer/Git.svg" width="40" />
     <img src="./images/Developer/Github.svg" width="40" />
-</div>
-
-<h4>Designer</h4>
-
-<div style="display: flex">
     <img src="./images/Designer/Figma.svg" width="40" />
     <img src="./images/Designer/Illustrator.svg" width="40" />
     <img src="./images/Designer/Photoshop.svg" width="40" />
     <img src="./images/Designer/PremierePro.svg" width="40" />
-</div>
-
-<h4>Other</h4>
-
-<div style="display: flex">
     <img src="./images/Other/VSCode.svg" width="40" />
 </div>
