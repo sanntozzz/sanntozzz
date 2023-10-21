@@ -1,6 +1,6 @@
 ### Hi 👋 My name is João Santos
 
-<h3>I'm a Frontend developer</h3>
+#### I'm a Frontend developer</h3>
 
 - 🌍 I'm based in Lisbon</li>
 - 🖥️ See my portfolio at [joaofcsantos.com](https://joaofcsantos.com/)
